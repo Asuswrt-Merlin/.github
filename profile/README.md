@@ -4,8 +4,11 @@
 
   <p>
     <a href="https://www.asuswrt-merlin.net/download"><img alt="Asuswrt-Merlin latest firmware" src="https://img.shields.io/github/v/tag/Asuswrt-Merlin/asuswrt-merlin.ng?sort=semver&style=flat-square&label=merlin&color=0b6bcb"></a>
-    <a href="https://github.com/Asuswrt-Merlin/asuswrt-merlin.ng-gnuton/releases"><img alt="GNUton's latest firmware" src="https://img.shields.io/github/v/tag/Asuswrt-Merlin/asuswrt-merlin.ng-gnuton?style=flat-square&label=gnuton&color=0b6bcb"></a>
+    <a href="https://github.com/Asuswrt-Merlin/asuswrt-merlin.ng-3006.gnuton/releases"><img alt="GNUton's latest 3006 firmware" src="https://img.shields.io/github/v/release/Asuswrt-Merlin/asuswrt-merlin.ng-3006.gnuton?display_name=tag&style=flat-square&label=gnuton%203006&color=0b6bcb"></a>
     <a href="https://github.com/Asuswrt-Merlin/asuswrt-merlin.ng/blob/main/License"><img alt="License" src="https://img.shields.io/badge/license-GPL--2.0_+_proprietary-0b6bcb?style=flat-square"></a>
+  </p>
+  <p>
+    <a href="https://github.com/Asuswrt-Merlin/asuswrt-merlin.ng-gnuton/releases"><img alt="GNUton's latest 3004 firmware" src="https://img.shields.io/github/v/release/Asuswrt-Merlin/asuswrt-merlin.ng-gnuton?display_name=tag&filter=3004.*&style=flat-square&label=gnuton%203004&color=0b6bcb"></a>
   </p>
 </div>
 
@@ -17,16 +20,16 @@ The guiding principle is simple: **stability over performance, and performance o
 
 ## Builds
 
-The project ships two builds from this organization:
+The project ships three builds from this organization:
 
-| | **Asuswrt-Merlin** | **GNUton's builds** |
-| :--- | :--- | :--- |
-| **Focus** | Main development | Fork extending support to additional Wi-Fi 6 and Wi-Fi 7 models |
-| **Download** | [asuswrt-merlin.net/download](https://www.asuswrt-merlin.net/download) | [GitHub releases](https://github.com/Asuswrt-Merlin/asuswrt-merlin.ng-gnuton/releases) |
-| **Supported models** | [Wiki list](https://github.com/Asuswrt-Merlin/asuswrt-merlin.ng/wiki/Supported-Devices) | [GNUton's README](https://github.com/Asuswrt-Merlin/asuswrt-merlin.ng-gnuton#readme) |
-| **Support** | [SNBForums](https://www.snbforums.com/forums/asuswrt-merlin.42/) | [GitHub Issues](https://github.com/Asuswrt-Merlin/asuswrt-merlin.ng-gnuton/issues) |
+| | **Asuswrt-Merlin** | **GNUton's 3006** | **GNUton's 3004** |
+| :--- | :--- | :--- | :--- |
+| **Focus** | Main development | Fork adding support for Wi-Fi 7 models | Fork adding support for Wi-Fi 6 models |
+| **Download** | [asuswrt-merlin.net/download](https://www.asuswrt-merlin.net/download) | [GitHub releases](https://github.com/Asuswrt-Merlin/asuswrt-merlin.ng-3006.gnuton/releases) | [GitHub releases](https://github.com/Asuswrt-Merlin/asuswrt-merlin.ng-gnuton/releases) |
+| **Supported models** | [Wiki list](https://github.com/Asuswrt-Merlin/asuswrt-merlin.ng/wiki/Supported-Devices) | [GNUton's 3006 README](https://github.com/Asuswrt-Merlin/asuswrt-merlin.ng-3006.gnuton#readme) | [GNUton's 3004 README](https://github.com/Asuswrt-Merlin/asuswrt-merlin.ng-gnuton#readme) |
+| **Support** | [SNBForums](https://www.snbforums.com/forums/asuswrt-merlin.42/) | [GitHub Issues](https://github.com/Asuswrt-Merlin/asuswrt-merlin.ng-3006.gnuton/issues) | [GitHub Issues](https://github.com/Asuswrt-Merlin/asuswrt-merlin.ng-gnuton/issues) |
 
-Both builds install like a regular Asus firmware update, and existing settings are preserved. Read the changelog before upgrading — a factory reset is recommended when moving across major firmware branches.
+All builds install like a regular Asus firmware update, and existing settings are preserved. Read the changelog before upgrading — a factory reset is recommended when moving across major firmware branches.
 
 ## Community & support
 
