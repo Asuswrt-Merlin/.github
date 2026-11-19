@@ -3,13 +3,14 @@
   <p><em>Everything you like about the stock firmware — with the fixes, hardening, and fine-tuning it deserves.</em></p>
 
   <p>
-    <a href="https://www.asuswrt-merlin.net/download"><img alt="Asuswrt-Merlin latest firmware" src="https://img.shields.io/github/v/tag/Asuswrt-Merlin/asuswrt-merlin.ng?sort=semver&style=flat-square&label=merlin&color=0b6bcb"></a><a href="https://www.asuswrt-merlin.net/download"><img alt="Asuswrt-Merlin latest firmware" src="https://img.shields.io/github/v/tag/Asuswrt-Merlin/asuswrt-merlin.ng?sort=semver&style=flat-square&label=merlin&color=0b6bcb&filter=*3004*"></a>
+    <a href="https://www.asuswrt-merlin.net/download"><img alt="Asuswrt-Merlin latest firmware" src="https://img.shields.io/github/v/tag/Asuswrt-Merlin/asuswrt-merlin.ng?sort=semver&style=flat-square&label=merlin&color=0b6bcb"></a>
+    <a href="https://www.asuswrt-merlin.net/download"><img alt="Asuswrt-Merlin latest firmware" src="https://img.shields.io/github/v/tag/Asuswrt-Merlin/asuswrt-merlin.ng?sort=semver&style=flat-square&label=merlin&color=0b6bcb&filter=*3004*"></a>
   </p>
-  <p><a href="https://github.com/Asuswrt-Merlin/asuswrt-merlin.ng-3006.gnuton/releases"><img alt="GNUton's latest 3006 firmware" src="https://img.shields.io/github/v/release/Asuswrt-Merlin/asuswrt-merlin.ng-3006.gnuton?display_name=tag&style=flat-square&label=gnuton%203006&color=0b6bcb"></a>
+  <p>
+    <a href="https://github.com/Asuswrt-Merlin/asuswrt-merlin.ng-3006.gnuton/releases"><img alt="GNUton's latest 3006 firmware" src="https://img.shields.io/github/v/release/Asuswrt-Merlin/asuswrt-merlin.ng-3006.gnuton?display_name=tag&style=flat-square&label=gnuton%203006&color=0b6bcb"></a>
     <a href="https://github.com/Asuswrt-Merlin/asuswrt-merlin.ng-gnuton/releases"><img alt="GNUton's latest 3004 firmware" src="https://img.shields.io/github/v/release/Asuswrt-Merlin/asuswrt-merlin.ng-gnuton?display_name=tag&filter=3004.*&style=flat-square&label=gnuton%203004&color=0b6bcb"></a>
   </p>
     <a href="https://github.com/Asuswrt-Merlin/asuswrt-merlin.ng/blob/main/License"><img alt="License" src="https://img.shields.io/badge/license-GPL--2.0_+_proprietary-0b6bcb?style=flat-square"></a>
-
 </div>
 
 ---
